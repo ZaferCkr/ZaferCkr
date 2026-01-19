@@ -23,7 +23,6 @@ I enjoy working on real-world projects and continuously improving my skills.
 - REST APIs  
 - Selenium (basic)  
 - Git & GitHub  
-- Business Analysis (requirements analysis, process understanding)
 
 ---
 
