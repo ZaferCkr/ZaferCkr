@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-I am a 3rd-year MIS student with hands-on experience in IT support,
+I am a 4rd-year MIS student with hands-on experience in IT support,
 software-related projects and test automation.
 I enjoy working on real-world projects and continuously improving my skills.
 
