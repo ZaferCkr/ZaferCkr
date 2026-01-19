@@ -1,14 +1,17 @@
 # Hi 👋 I'm Zafer
 
 🎓 Management Information Systems Student  
-💻 IT & Software Intern  
-🧪 Interested in Test Automation, API Testing and Software Development  
+💻 Software & Test Intern  
+🧪 Interested in Software Testing, Business Analysis and Software Development  
 
 ---
 
 ## 🚀 About Me
-I am a 4rd-year MIS student with hands-on experience in IT support,
-software-related projects and test automation.
+I am a 4th-year Management Information Systems student with hands-on experience
+in software testing and software-related projects.
+
+I am interested in analyzing requirements, understanding business needs
+and ensuring software quality through testing.
 I enjoy working on real-world projects and continuously improving my skills.
 
 ---
@@ -20,18 +23,18 @@ I enjoy working on real-world projects and continuously improving my skills.
 - REST APIs  
 - Selenium (basic)  
 - Git & GitHub  
-
+- Business Analysis (requirements analysis, process understanding)
 
 ---
 
 ## 📌 What I'm Working On
-- API testing projects  
-- Test automation scenarios  
-- Small assistant applications  
+- Software testing projects  
+- API testing scenarios  
+- Requirement analysis and test case design  
 
 ---
 
 ## 🎯 Goal
 I am looking for a **long-term internship** where I can improve my
-technical skills and contribute to real projects.
+testing and analytical skills and contribute to real-world projects.
 
