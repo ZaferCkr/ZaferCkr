@@ -37,10 +37,7 @@ I enjoy working on real-world projects and continuously improving my skills.
 I am looking for a **long-term internship** where I can improve my
 testing and analytical skills and contribute to real-world projects.
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zaferckr&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+
 
 ### 🛠️ Top Languages
 <p align="center">
