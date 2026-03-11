@@ -39,6 +39,9 @@ testing and analytical skills and contribute to real-world projects.
 
 
 
-### 🛠️ Top Languages
-<p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact)
+💻 Top Languages
+
+
+
+
+🔥 Streak Stats
