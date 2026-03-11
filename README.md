@@ -36,5 +36,8 @@ I enjoy working on real-world projects and continuously improving my skills.
 ## 🎯 Goal
 I am looking for a **long-term internship** where I can improve my
 testing and analytical skills and contribute to real-world projects.
-
+### 🛠️ Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaferişko&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
