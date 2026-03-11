@@ -39,7 +39,7 @@ testing and analytical skills and contribute to real-world projects.
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaferişko&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zaferckr&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ### 🛠️ Top Languages
