@@ -23,6 +23,12 @@ I enjoy working on real-world projects and continuously improving my skills.
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ZaferCkr&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaferCkr&layout=compact&theme=tokyonight)
 ---
 
 ## 📌 What I'm Working On
