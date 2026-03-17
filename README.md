@@ -30,6 +30,7 @@ I enjoy working on real-world projects and continuously improving my skills.
 
 ### 🧪 Testing
 <p>
+  <img src="https://img.shields.io/badge/Test Automation-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Manual Testing-grey?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Test Cases-blue?style=for-the-badge"/>
