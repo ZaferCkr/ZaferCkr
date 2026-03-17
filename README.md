@@ -7,18 +7,6 @@
   </a>
 </p>
 
-
-<table cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" bgcolor="#0077B5" style="border-radius: 4px;">
-      <a href="https://www.linkedin.com/in/zafer-%C3%A7ak%C4%B1r-708663251/" 
-         target="_blank" 
-         style="display: inline-block; padding: 8px 12px; font-family: Arial, sans-serif; font-size: 14px; color: white; text-decoration: none; font-weight: bold;">
-        LinkedIn
-      </a>
-    </td>
-  </tr>
-</table>
 ## 🚀 About Me
 
 I am a 4th-year Management Information Systems student with hands-on experience
