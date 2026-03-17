@@ -17,13 +17,12 @@ I enjoy working on real-world projects and continuously improving my skills.
 ---
 
 ## 🛠️ Tech Stack
-- C# / .NET  
-- Python  
-- JavaScript  
-- REST APIs  
-- Selenium (basic)  
-- Git & GitHub  
 
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
 ---
 
 ## 📌 What I'm Working On
