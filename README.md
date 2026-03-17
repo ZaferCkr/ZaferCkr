@@ -58,7 +58,3 @@ projects and continuously improving my skills.
 - 📊 Requirement analysis and test case design  
 - 💻 Learning advanced test automation with Python & Selenium  
 
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/ZaferCkr/ZaferCkr/output/github-contribution-grid-snake.svg" />
