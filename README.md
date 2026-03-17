@@ -23,7 +23,7 @@ projects and continuously improving my skills.
 ## 🛠️ Tech Stack
 
 ### 💻 Development
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -31,18 +31,18 @@ projects and continuously improving my skills.
 </p>
 
 ### 🧪 Testing
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Test Automation-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Manual Testing-grey?style=for-the-badge"/>
 </p>
 
 ### 📊 Business & Tools
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Agile-ff69b4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+</p>>
 
 ---
 
