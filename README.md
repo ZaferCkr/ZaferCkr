@@ -7,10 +7,7 @@
   </a>
 </p>
 
-<a href="https://www.linkedin.com/in/zafer-%C3%A7ak%C4%B1r-708663251/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-</a>
----
+
 
 ## 🚀 About Me
 
