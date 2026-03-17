@@ -58,3 +58,4 @@ projects and continuously improving my skills.
 - 📊 Requirement analysis and test case design  
 - 💻 Learning advanced test automation with Python & Selenium  
 
+<img src="https://github-readme-stats.vercel.app/api?username=ZaferCkr&show_icons=true&theme=radical&rank_icon=default&include_all_commits=true" />
