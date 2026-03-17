@@ -59,5 +59,5 @@ projects and continuously improving my skills.
 - 📊 Requirement analysis and test case design  
 - 💻 Learning advanced test automation with Python & Selenium  
 
-## 📊 GitHub Stats
+
 
