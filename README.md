@@ -40,7 +40,7 @@ I enjoy working on real-world projects and continuously improving my skills.
 <p>
   <img src="https://img.shields.io/badge/Agile-ff69b4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST API-02569B?style=for-the-badge"/>
+  
 </p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaferCkr&layout=compact&theme=tokyonight)
 ---
