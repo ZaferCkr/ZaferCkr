@@ -47,10 +47,9 @@ projects and continuously improving my skills.
 ---
 
 ### 🛠️ Top Languages
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaferCkr&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
 ---
 
 ## 📌 What I'm Working On
