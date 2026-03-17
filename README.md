@@ -41,9 +41,14 @@ I enjoy working on real-world projects and continuously improving my skills.
   <img src="https://img.shields.io/badge/Agile-ff69b4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   
+## 🎯 Goal
+I am looking for a **long-term internship** where I can improve my
+testing and analytical skills and contribute to real-world projects.
+### 🛠️ Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaferckr&layout=compact&theme=radical" alt="Top Langs" />
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaferCkr&layout=compact&theme=tokyonight)
----
+
 
 ## 📌 What I'm Working On
 - Software testing projects  
