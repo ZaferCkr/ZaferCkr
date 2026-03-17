@@ -6,7 +6,10 @@
 - 🎓 MIS Student  
 - 💻 Software Test & Development  
 - 🔍 Interested in QA & Business Analysis  
-- 📈 Always improving my skillselopment  
+- 📈 Always improving my skillselopment
+
+### 📫 Contact
+ https://www.linkedin.com/in/zafer-%C3%A7ak%C4%B1r-708663251/ 
 
 ---
 
