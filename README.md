@@ -1,8 +1,11 @@
 # Hi 👋 I'm Zafer
 
-🎓 Management Information Systems Student  
-💻 Software & Test Intern  
-🧪 Interested in Software Testing, Business Analysis and Software Development  
+## 🚀 About Me
+
+- 🎓 MIS Student  
+- 💻 Software Test & Development  
+- 🔍 Interested in QA & Business Analysis  
+- 📈 Always improving my skillselopment  
 
 ---
 
