@@ -59,4 +59,6 @@ projects and continuously improving my skills.
 - 💻 Learning advanced test automation with Python & Selenium  
 
 
+### 🐍 Contribution Snake
 
+<img src="https://raw.githubusercontent.com/ZaferCkr/ZaferCkr/output/github-contribution-grid-snake.svg" />
