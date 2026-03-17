@@ -52,10 +52,7 @@ projects and continuously improving my skills.
 
 ---
 
-### 🔥 Profile Details Card
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zaferckr&theme=radical" />
----
 
 ## 📌 What I'm Working On
 - 🧪 Software testing projects  
