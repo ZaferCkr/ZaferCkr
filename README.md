@@ -7,7 +7,7 @@
   </a>
 </p>
 
-## 🚀 About Me
+## 🚀 About Me  WEQWEQWEQWEW
 
 I am a 4th-year Management Information Systems student with hands-on experience
 in software testing, automation, and software-related projects.  
