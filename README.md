@@ -55,7 +55,7 @@ projects and continuously improving my skills.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaferckr&layout=compact&theme=radical" />
 
 ---
-sdsdsdsd
+
 
 ## 📌 What I'm Working On
 - 🧪 Software testing projects  
