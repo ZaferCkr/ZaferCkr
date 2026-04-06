@@ -13,7 +13,7 @@ I am a 4th-year Management Information Systems student with hands-on experience
 in software testing, automation, and software-related projects.  
 
 I enjoy analyzing requirements, understanding business needs, and ensuring
-software quality through testing. I’m passionate about working on real-world                              dddddddddddddddd
+software quality through testing. I’m passionate about working on real-world                          
 projects and continuously improving my skills.
 
 ---
