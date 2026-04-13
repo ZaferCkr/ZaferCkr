@@ -49,7 +49,6 @@ projects and continuously improving my skills.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaferCkr&show_icons=true&theme=tokyonight)
 
-
 ### 🛠️ Top Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaferckr&layout=compact&theme=radical" />
