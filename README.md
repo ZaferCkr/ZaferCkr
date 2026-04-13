@@ -54,7 +54,17 @@ projects and continuously improving my skills.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaferckr&layout=compact&theme=radical" />
 
 ---
+---
+## 📁 Featured Projects
 
+### 🧪 OpenLibrary API Test Automation
+*Developed a comprehensive API testing suite using **.NET** and **RestSharp**. Focused on automated validation of book metadata and endpoint reliability.*
+
+### ⚙️ Jira Cloud Migration Analysis
+*Scripts and documentation for analyzing custom field usage and instance cleanup using **JQL** and **SQL** to ensure a smooth transition to Jira Cloud.*
+
+### 🌐 Selenium BDD Framework
+*An end-to-end web automation project using **Java**, **Selenium**, and **Cucumber** to simulate real user scenarios on Jira platforms.*
 
 ## 📌 What I'm Working On
 - 🧪 Software testing projects  
