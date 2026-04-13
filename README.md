@@ -16,9 +16,6 @@ I enjoy analyzing requirements, understanding business needs, and ensuring
 software quality through testing. I’m passionate about working on real-world                          
 projects and continuously improving my skills.
 ---
-## 📫 Connect with Me
-Email: zaferckr2002@email.com
----
 
 ## 🛠️ Tech Stack
 
