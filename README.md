@@ -17,11 +17,7 @@ software quality through testing. I’m passionate about working on real-world
 projects and continuously improving my skills.
 ---
 ## 📫 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/zaferckr" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Zafer Çakır" /></a>
-<a href="mailto:eposta-adresin@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
+<Email: zafercakir@email.com
 ---
 
 ## 🛠️ Tech Stack
