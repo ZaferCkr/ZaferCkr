@@ -28,20 +28,20 @@ projects and continuously improving my skills.
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### 🧪 Testing
+### 🔧 Automation & Scripting
 <p align="left">
-  <img src="https://img.shields.io/badge/Test Automation-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Manual Testing-grey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RestSharp-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ScriptRunner-0052CC?style=for-the-badge&logo=atlassian&logoColor=white"/>
 </p>
 
-### 📊 Business & Tools
+### 🗄️ Database & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Agile-ff69b4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>>
-
+  <img src="https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 ---
 
 ### 📊 GitHub Stats Panel
