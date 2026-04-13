@@ -47,16 +47,7 @@ projects and continuously improving my skills.
 ### 📊 GitHub Stats Panel
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ZaferCkr&show_icons=true)
-
-## 🔥 Streak
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZaferCkr)
-
-## 📈 Activity Graph
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZaferCkr)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaferCkr&show_icons=true&theme=tokyonight)
 
 
 ### 🛠️ Top Languages
