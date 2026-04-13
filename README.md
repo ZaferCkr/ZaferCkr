@@ -45,7 +45,7 @@ projects and continuously improving my skills.
 ---
 
 ### 📊 GitHub Stats Panel
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaferckr&theme=radical&show_icons=true&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ckrzafer&show_icons=true)
 
 ### 🛠️ Top Languages
 
